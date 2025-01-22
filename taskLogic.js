@@ -18,6 +18,10 @@ document.getElementById('addTaskBtn').addEventListener('click', () => {
 
     taskInput.value = '';
     //This is a comment
+
+    // Adding confirmation after adding a task
+    alert('Task added successfully!');
+    // Optionally focus back to the input field for new task
+    taskInput.focus();
   }
 });
-
