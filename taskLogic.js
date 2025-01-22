@@ -17,6 +17,7 @@ document.getElementById('addTaskBtn').addEventListener('click', () => {
     taskList.appendChild(li);
 
     taskInput.value = '';
+    //This is a comment
   }
 });
 
