@@ -16,6 +16,7 @@ const filterValue = filterInput.value.toLowerCase();
 document.querySelectorAll('#taskList li').forEach(task => {
 if (task.textContent.toLowerCase().includes(filterValue)) {
 task.style.display =onst filterValue = filterInput.value.toLowerCase();
+document.querySelectorAll('#taskL.style.display =onst filterValue = filterInput.value.toLowerCase();
 document.querySelectorAll('#taskList li').forEach(task => {
 if (task.textContent.toLowerCase().includes(filterValue)) {
 task.style.display =
